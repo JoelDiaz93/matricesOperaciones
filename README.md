@@ -23,11 +23,11 @@ Ejercicio en python sin numpy
 
 **Resta de matrices**
 
-![image](https://user-images.githubusercontent.com/58042087/121825687-6f93d300-cc79-11eb-990d-461230aedec3.png)
+![image](https://user-images.githubusercontent.com/58042087/121825852-40ca2c80-cc7a-11eb-8498-188e901d9caa.png)
 
 **Multiplicacion de matrices**
 
-![image](https://user-images.githubusercontent.com/58042087/121825703-7a4e6800-cc79-11eb-9fd0-98d024d25350.png)
+![image](https://user-images.githubusercontent.com/58042087/121825687-6f93d300-cc79-11eb-990d-461230aedec3.png)
 
 **Imprimir matrices 1 y 2**
 
